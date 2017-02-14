@@ -1,0 +1,12 @@
+:host { 
+    background-color:yellow;
+    border: 1px solid black;
+    padding: 5px;
+    margin-bottom: 10px;
+    display:block;
+    max-width:500px;
+}
+
+.title {
+    color: red;
+}
